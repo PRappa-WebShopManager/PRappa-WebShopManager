@@ -1,24 +1,22 @@
 # HI!!! 👋
 
-## My name is PAblo Rappalini
+## My name is Pablo Rappalini, I'm from Uruguay but I'm currently living in Junín, Buenos Aires, Argentina.
 
-### 🔭 I’m currently working as a DevOps / SRE on WebShopManager, the best Automotive eCommerce Platform / Search / Product / Data (https://webshopmanager.com)
+### 🔭 I’m currently working as a DevOps / SRE on WebShopManager, the Best Automotive eCommerce Platform / Search / Product / Data (https://webshopmanager.com)
+
+### ⚡ Fun fact: I NEVER Miss Any PEÑAROL Match.
+
 
 <!--
 **PRappa-WebShopManager/PRappa-WebShopManager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 
 ```
                              \\\\\\\
