@@ -6,7 +6,6 @@
 
 ### ⚡ Fun fact: I NEVER Miss Any PEÑAROL Match.
 
-
 <!--
 **PRappa-WebShopManager/PRappa-WebShopManager** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -91,8 +90,6 @@ _____________|','   ///_/-------------/   |
   <img width="12" />
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
 </div>
-
-<p align="center">Hello World!!</p>
 
 <!--
 https://profile-readme-generator.com/result
