@@ -91,24 +91,5 @@ _____________|','   ///_/-------------/   |
 </div>
 
 ###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
+<p align="center">Hello World!!</p>
 ###
