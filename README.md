@@ -90,6 +90,4 @@ _____________|','   ///_/-------------/   |
   <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="40" alt="jira logo"  />
 </div>
 
-###
 <p align="center">Hello World!!</p>
-###
